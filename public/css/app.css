@@ -1,0 +1,14 @@
+.container{
+    margin-top: 20px;;
+}
+
+.cart-box {
+    position: sticky;
+    top: 20px;
+    max-height: 80vh;
+    overflow-y: auto;
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
